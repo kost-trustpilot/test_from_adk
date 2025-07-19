@@ -1,6 +1,6 @@
 import json
 
-gith open('config.json', 'r') as f:
+with open('config.json', 'r') as f:
     config = json.load(f)
 
 username = config.get('username', 'Wsername')
