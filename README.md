@@ -1,1 +1,1 @@
-# test_from_adk
+This is a test repo created by ADK agent
